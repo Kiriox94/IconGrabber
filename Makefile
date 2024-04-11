@@ -44,7 +44,7 @@ DATA		:=	data
 ICON		:=	resources/icon/borealis.jpg
 INCLUDES	:=	example
 APP_TITLE	:=	IconGrabber
-APP_AUTHOR	:=	Slluxx
+APP_AUTHOR	:=	Kiriox
 APP_VERSION	:=	1.0.0
 
 ROMFS				:=	resources
