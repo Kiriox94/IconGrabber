@@ -1,9 +1,11 @@
-
 nxlink
+.vscode/
 build.nx/
+debug.bat
 
 *.zip
 *.nro
 *.elf
 *.bin
 *.nacp
+*.lst
